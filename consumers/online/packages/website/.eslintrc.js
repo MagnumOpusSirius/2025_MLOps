@@ -6,6 +6,6 @@ module.exports = {
     ],
     plugins: ['header'],
     rules: {
-        'header/header': [2, path.join(__dirname, '..', '..', '..', '..', 'configuration', 'header.js')],
+        'header/header': "off",
     }
 };

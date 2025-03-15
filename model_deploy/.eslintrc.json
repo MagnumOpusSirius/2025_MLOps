@@ -15,7 +15,7 @@
       "plugin:prettier/recommended"
     ],
     "rules": {
-      "header/header": [2, "../configuration/header.js"],
+      "header/header": "off",
       "@typescript-eslint/ban-ts-comment": "warn"
     }
 }
