@@ -1,5 +1,3 @@
-// Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
-// SPDX-License-Identifier: MIT-0
 import { S3Client, PutObjectCommand } from '@aws-sdk/client-s3';
 import * as fs from 'fs';
 import archiver = require('archiver');

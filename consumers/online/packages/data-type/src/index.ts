@@ -1,4 +1,3 @@
-
 export interface DataType {
     sex: 'I' | 'F' | 'M';
     length: number;
